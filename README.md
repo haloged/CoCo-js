@@ -6,7 +6,7 @@
 
 ## 安装
 1. 环境检查
-环境检查： 确保你的电脑已经安装了最新版本的 Node.js。 Boxy 是纯客户端 Web 应用， 仅使用 Node.js 进行自动化处理。
+环境检查： 确保你的电脑已经安装了最新版本的 Node.js。 万能工具箱是纯客户端 JavaScript 应用， 仅使用 Node.js 进行自动化处理。
 
 2. 克隆仓库：将本仓库克隆到本地。
 git clone https://github.com/haloged/CoCo-js
